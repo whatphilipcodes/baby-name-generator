@@ -8,7 +8,7 @@ https://github.com/harblaith7/Nuxt3-Course-Udemy
 ## Personal Notes
 
 close running dev server:<br>
-In Terminal where node is open -> ctrl + c
+In Terminal where node is open -> Ctrl + C
 
 disable type script plugin (TS takeover mode):<br>
 Cmd + Shift + P -> Show Build-In Extensions -> Search "TypeScript" -> Disable (Workspace)
