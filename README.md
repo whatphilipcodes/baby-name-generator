@@ -43,8 +43,8 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/prese
 
 ## Personal Notes
 
-close running dev server
+close running dev server:<br>
 In Terminal where node is open -> ctrl + c
 
-disable type script plugin (TS takeover mode)
+disable type script plugin (TS takeover mode):<br>
 Cmd + Shift + P -> Show Build-In Extensions -> Search "TypeScript" -> Disable (Workspace)
