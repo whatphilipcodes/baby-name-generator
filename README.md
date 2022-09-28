@@ -1,5 +1,6 @@
 # Tutorial by Laith Harb
-Following this video: https://www.youtube.com/watch?v=dZC4T4UiU1c<br>
+Following this video:<br>
+https://www.youtube.com/watch?v=dZC4T4UiU1c<br>
 GitHub Links:<br>
 https://github.com/harblaith7<br>
 https://github.com/harblaith7/Nuxt3-Course-Udemy
