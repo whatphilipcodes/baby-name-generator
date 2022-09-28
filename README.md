@@ -1,3 +1,10 @@
+# Tutorial by Laith Harb
+Following this video: https://www.youtube.com/watch?v=dZC4T4UiU1c<br>
+GitHub Links:<br>
+https://github.com/harblaith7<br>
+https://github.com/harblaith7/Nuxt3-Course-Udemy
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
